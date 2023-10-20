@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "web_spec_api.shared/1.0.0": {
+      "Web_Spec_Api.Shared/1.0.0": {
         "runtime": {
-          "web_spec_api.shared.dll": {}
+          "Web_Spec_Api.Shared.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "web_spec_api.shared/1.0.0": {
+    "Web_Spec_Api.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

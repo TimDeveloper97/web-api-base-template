@@ -1,4 +1,4 @@
-namespace web_spec_api_server
+namespace Web_Spec_Api.Server
 {
     public class WeatherForecast
     {

@@ -1,4 +1,4 @@
-﻿namespace web_spec_api.shared
+﻿namespace Web_Spec_Api.Shared
 {
     public class Class1
     {

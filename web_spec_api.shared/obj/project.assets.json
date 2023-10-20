@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web_swagger_api\\web_spec_api_server\\web_spec_api.shared\\web_spec_api.shared.csproj",
-      "projectName": "web_spec_api.shared",
-      "projectPath": "E:\\web_swagger_api\\web_spec_api_server\\web_spec_api.shared\\web_spec_api.shared.csproj",
+      "projectUniqueName": "E:\\web_swagger_api\\Web_Spec_API_Server\\Web_Spec_Api.Shared\\Web_Spec_Api.Shared.csproj",
+      "projectName": "Web_Spec_Api.Shared",
+      "projectPath": "E:\\web_swagger_api\\Web_Spec_API_Server\\Web_Spec_Api.Shared\\Web_Spec_Api.Shared.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\web_swagger_api\\web_spec_api_server\\web_spec_api.shared\\obj\\",
+      "outputPath": "E:\\web_swagger_api\\Web_Spec_API_Server\\Web_Spec_Api.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

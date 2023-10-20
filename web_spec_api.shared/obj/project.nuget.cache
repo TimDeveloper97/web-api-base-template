@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/SWh8gd7YUFiogWjPXJUh1MVhtAwbjl6Tcsm5Tmiipq7niHXnecjB3x9HHaEXIQxrm6/O9lE0HB91pRk9jfg1A==",
+  "dgSpecHash": "ZsK2K3wSMZB8oFIdAnxFhoug33Hu0h6yvMBBdLuR7Un/O0uSqqru41pj8KYkze9yOJM76q0kjpY3X1ZnJeBf0w==",
   "success": true,
-  "projectFilePath": "E:\\web_swagger_api\\web_spec_api_server\\web_spec_api.shared\\web_spec_api.shared.csproj",
+  "projectFilePath": "E:\\web_swagger_api\\Web_Spec_API_Server\\Web_Spec_Api.Shared\\Web_Spec_Api.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

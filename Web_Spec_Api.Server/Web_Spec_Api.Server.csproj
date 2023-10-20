@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\web_spec_api.shared\web_spec_api.shared.csproj" />
+    <ProjectReference Include="..\Web_Spec_Api.Shared\Web_Spec_Api.Shared.csproj" />
   </ItemGroup>
 
 </Project>
