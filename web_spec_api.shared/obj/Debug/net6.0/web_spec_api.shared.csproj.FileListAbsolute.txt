@@ -1,0 +1,12 @@
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\bin\Debug\net6.0\web_spec_api.shared.deps.json
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\bin\Debug\net6.0\web_spec_api.shared.dll
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\bin\Debug\net6.0\web_spec_api.shared.pdb
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\web_spec_api.shared.csproj.AssemblyReference.cache
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\web_spec_api.shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\web_spec_api.shared.AssemblyInfoInputs.cache
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\web_spec_api.shared.AssemblyInfo.cs
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\web_spec_api.shared.csproj.CoreCompileInputs.cache
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\web_spec_api.shared.dll
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\refint\web_spec_api.shared.dll
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\web_spec_api.shared.pdb
+E:\web_swagger_api\web_spec_api_server\web_spec_api.shared\obj\Debug\net6.0\ref\web_spec_api.shared.dll

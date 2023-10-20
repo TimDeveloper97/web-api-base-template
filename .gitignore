@@ -1,0 +1,14 @@
+.vs/
+LogCore/bin/
+LogCore/obj/
+MathCore/bin/
+MathCore/obj/
+MBTActivityDiagam/bin/
+MBTActivityDiagam/obj/
+StatementCore/bin/
+StatementCore/obj/
+/ExpressionCore/obj/Debug/net6.0
+/ExpressionCore/bin/Debug/net6.0
+/ExpressionCore/obj
+GenericRange/bin
+GenericRange/obj
